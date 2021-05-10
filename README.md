@@ -4,7 +4,7 @@
 - &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about technology.
 - 🌱 I’m currently learning Deep Learning and Computer Vision
 - 📫 Reach me @ amalsaga@gmail.com
-- Connect me on LinkedIn : [Amal Ajay](https://www.linkedin.com/in/amal-ajay/)
+- My LinkedIn : [Amal Ajay](https://www.linkedin.com/in/amal-ajay/)
 
 
 
