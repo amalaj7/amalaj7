@@ -15,4 +15,7 @@
 * Exploring New Trends in AI
 * Blogging
 
-
+### Connect with me in - 
+[![Linkedin Badge](https://img.shields.io/badge/-AmalAjay-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amal-ajay/)](https://www.linkedin.com/in/amal-ajay/)
+[![Medium Badge](https://img.shields.io/badge/-AmalAjay-black?style=flat&logo=Medium&logoColor=white&labelColor=black&link=https://amalaj7.medium.com/)](https://amalaj7.medium.com/)
+[![Gmail Badge](https://img.shields.io/badge/-AmalAjay-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:amalsaga@gmail.com)](mailto:amalsaga@gmail.com)
