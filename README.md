@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Amal Ajay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I am [Amal](https://www.linkedin.com/in/amal-ajay/), a passionate developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong intrest in Machine Learning⚙️, Computer Vision and Natural Language Processing🤖.
+I am [Amal](https://www.linkedin.com/in/amal-ajay/), a passionate developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Machine Learning⚙️, Computer Vision and Natural Language Processing🤖.
 
 <img align='right' src="https://i.pinimg.com/originals/50/44/30/50443067a22e6dd1ecc2d2e394d6e634.gif" width="300">
 
